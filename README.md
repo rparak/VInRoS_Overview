@@ -1,1 +1,1 @@
-# VInRoS_Overview
+# Versatile Intelligent Robotic Workstation (VInRoS)
