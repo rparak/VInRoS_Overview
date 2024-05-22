@@ -1,0 +1,22 @@
+(*
+T: PROGRAM Main
+FW: NO
+CI#: 80
+QSL: 2
+QVE: 2
+QVPC: 2
+QPar: 0
+QFBI: 2
+*)
+@V 1 2 0
+SF_EmergencyStop_V1_00_1	1	VAR	@FB:81
+		     
+
+;
+
+@V 1 3 0
+SF_oS_MOTION_Basic_BR_1	2	VAR	@FB:82
+		     
+
+;
+

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<OpcUaSource FileVersion="9" ArVersion="B4.83">
+  <Aliases>
+    <ACLAliases />
+    <EURangeViolationAliases />
+    <EURangesAliases />
+    <EngineeringUnitAliases />
+  </Aliases>
+  <DefaultView>
+    <Module Name="&lt;Default&gt;">
+      <GlobalVariables Name="Global Variables">
+        <Variable Name="Global_VInRoS_Str">
+          <Variable Name="Mech_Id_1">
+            <Variable Name="Command">
+              <Variable Name="Power" />
+              <Variable Name="Home" />
+              <Variable Name="Start" />
+              <Variable Name="Stop" />
+              <Variable Name="Reset_Error" />
+              <Variable Name="Reset_Safety" />
+              <Variable Name="Update" />
+              <Variable Name="Move" />
+            </Variable>
+            <Variable Name="Info">
+              <Variable Name="Active" />
+              <Variable Name="Power" />
+              <Variable Name="Home" />
+              <Variable Name="Safety" />
+              <Variable Name="Error" />
+              <Variable Name="In_Position" />
+              <Variable Name="Update_Done" />
+              <Variable Name="Move_Active" />
+            </Variable>
+            <Variable Name="Position" />
+            <Variable Name="Parameters">
+              <Variable Name="Position" />
+              <Variable Name="Velocity" />
+              <Variable Name="Acc_Dec" />
+            </Variable>
+          </Variable>
+          <Variable Name="Mech_Id_2">
+            <Variable Name="Command">
+              <Variable Name="Power" />
+              <Variable Name="Home" />
+              <Variable Name="Start" />
+              <Variable Name="Stop" />
+              <Variable Name="Reset_Error" />
+              <Variable Name="Reset_Safety" />
+              <Variable Name="Update" />
+              <Variable Name="Move" />
+            </Variable>
+            <Variable Name="Info">
+              <Variable Name="Active" />
+              <Variable Name="Power" />
+              <Variable Name="Home" />
+              <Variable Name="Safety" />
+              <Variable Name="Error" />
+              <Variable Name="In_Position" />
+              <Variable Name="Update_Done" />
+              <Variable Name="Move_Active" />
+            </Variable>
+            <Variable Name="Position" />
+            <Variable Name="Parameters">
+              <Variable Name="Position" />
+              <Variable Name="Velocity" />
+              <Variable Name="Acc_Dec" />
+            </Variable>
+          </Variable>
+          <Variable Name="Mech_Id_3">
+            <Variable Name="Command">
+              <Variable Name="Power" />
+              <Variable Name="Home" />
+              <Variable Name="Start" />
+              <Variable Name="Stop" />
+              <Variable Name="Reset_Error" />
+              <Variable Name="Reset_Safety" />
+              <Variable Name="Update" />
+              <Variable Name="Move" />
+            </Variable>
+            <Variable Name="Info">
+              <Variable Name="Active" />
+              <Variable Name="Power" />
+              <Variable Name="Home" />
+              <Variable Name="Safety" />
+              <Variable Name="Error" />
+              <Variable Name="In_Position" />
+              <Variable Name="Update_Done" />
+              <Variable Name="Move_Active" />
+            </Variable>
+            <Variable Name="Position" />
+            <Variable Name="Parameters">
+              <Variable Name="Position" />
+              <Variable Name="Velocity" />
+              <Variable Name="Acc_Dec" />
+            </Variable>
+          </Variable>
+          <Variable Name="EX_600">
+            <Variable Name="Slave">
+              <Variable Name="Command">
+                <Variable Name="Home" />
+                <Variable Name="Reset_Error" />
+              </Variable>
+              <Variable Name="Info">
+                <Variable Name="Active" />
+                <Variable Name="Error" />
+                <Variable Name="Home" />
+              </Variable>
+            </Variable>
+          </Variable>
+          <Variable Name="Rob_Id_1">
+            <Variable Name="Position">
+              <Variable Name="Q" RecursiveEnable="2" />
+            </Variable>
+            <Variable Name="Info">
+              <Variable Name="Move_Active" />
+              <Variable Name="Active" />
+              <Variable Name="Power" />
+              <Variable Name="Home" />
+              <Variable Name="Safety" />
+              <Variable Name="Error" />
+              <Variable Name="In_Position" />
+              <Variable Name="Update_Done" />
+            </Variable>
+            <Variable Name="Command">
+              <Variable Name="Power" />
+              <Variable Name="Home" />
+              <Variable Name="Start" />
+              <Variable Name="Stop" />
+              <Variable Name="Reset_Error" />
+              <Variable Name="Reset_Safety" />
+            </Variable>
+          </Variable>
+        </Variable>
+        <Variable Name="ROB_1_Sim_PROFINET_Mapping_IN" />
+        <Variable Name="ROB_1_Sim_PROFINET_Mapping_OUT" />
+      </GlobalVariables>
+      <Task Name="T_MECH_1" />
+      <Task Name="T_ROB_1" />
+    </Module>
+  </DefaultView>
+</OpcUaSource>

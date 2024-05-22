@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File">Info.svg</Object>
+    <Object Type="File">Home_Enable.svg</Object>
+    <Object Type="File">Power_Enable.svg</Object>
+    <Object Type="File">Active_Disable.svg</Object>
+    <Object Type="File">Home_Disable.svg</Object>
+    <Object Type="File">Power_Disable.svg</Object>
+    <Object Type="File">Active_Enable.svg</Object>
+    <Object Type="File">Alarm_Disable.svg</Object>
+    <Object Type="File">Alarm_Enable.svg</Object>
+    <Object Type="File">Safety_Disable.svg</Object>
+    <Object Type="File">Safety_Enable.svg</Object>
+    <Object Type="File">Control.svg</Object>
+    <Object Type="File">Play_Disable.svg</Object>
+    <Object Type="File">Play_Enable.svg</Object>
+    <Object Type="File">Stop_Enable.svg</Object>
+    <Object Type="File">Stop_Disable.svg</Object>
+    <Object Type="File">Command.svg</Object>
+    <Object Type="File">Reset_Alarm_Enable.svg</Object>
+    <Object Type="File">Reset_Safety_Enable.svg</Object>
+    <Object Type="File">Reset_Alarm_Disable.svg</Object>
+    <Object Type="File">Reset_Safety_Disable.svg</Object>
+  </Objects>
+</Package>

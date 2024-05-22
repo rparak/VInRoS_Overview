@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExternalHardware>
+  <Modules>
+    <Module ModuleID="FBD.Hilscher.EIGenEDSAdapterDTM.EX600-WEN$002A V1.1" Version="1.1" OrderNumber="EX600-WEN* V1.1">
+      <SourceFile OriginalFile="ex600_wen1_2_v13.eds" TranslationFile="S08HZGHF.ext" />
+    </Module>
+    <Module ModuleID="FBD.Hilscher.PNIOGenDevDTM2.BASIC V1.2" Version="1.2" OrderNumber="BASIC V1.2">
+      <SourceFile OriginalFile="GSDML-V2.33-ABB Robotics-Robot Device-20170522.xml" TranslationFile="Q6LEVR7N.ext" />
+    </Module>
+  </Modules>
+</ExternalHardware>

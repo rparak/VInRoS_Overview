@@ -1,0 +1,12 @@
+<!--xml version= "1.0" encoding="utf-8"-->
+<!--IOMapping Version="4.0"-->
+<IOOffsets SIBytes="2048" SOBytes="2048" NSIBytes="1024" NSOBytes="1024" ConnectionsValidOffset="24" >
+		<Module Name="SL1.SM1" Hardware="X20SLX842" SafeLogicID="1" SafeModuleID="1" SISize="8" SOSize="2" NSISize="20" NSOSize="20" SIOffset="16" SOOffset="12" NSIOffset="0" NSOOffset="0" HWTypeCode="63" >
+			<Channel Name="SafeDigitalInput03" Mapping="SIX16.2" Variable="SDI_ESTOP" Address="SAFETY_ACTIVE" SODIndex="0x9999" SODSubIndex="0x1" />
+			<Channel Name="BOOL001" Mapping="NSQX0.0" Variable="COM_STATUS_OPERATIONAL" Address="SAFETY_STATUS" SODIndex="0x2580" SODSubIndex="0x1" />
+			<Channel Name="BOOL101" Mapping="NSIX0.0" Variable="COM_RESET_SF" Address="RESET_SAFETY" SODIndex="0x2500" SODSubIndex="0x2" />
+		</Module>
+		<Module Name="SL1.SM2" Hardware="8ESMC59314" SafeLogicID="1" SafeModuleID="2" SISize="10" SOSize="4" NSISize="0" NSOSize="0" SIOffset="60" SOOffset="16" ConnectionValidBitNumber="0" IsProfile="true" HWTypeCode="131" >
+			<Profile profileType="SafeMotion" oSP_FunctionGroupId="Axis01" oSP_FunctionGroupNumeric="0" InstanceName="SM_Axis_ROB_01" />
+		</Module>
+</IOOffsets>

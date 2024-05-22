@@ -1,0 +1,25 @@
+#include <bur/plctypes.h>
+
+#ifdef _DEFAULT_INCLUDES
+#include <AsDefault.h>
+#endif
+
+#define TRUE 1
+#define FALSE (!TRUE)
+#define NULL 0
+
+typedef enum Mechanism_State_ID_enum{
+	MECH_STATE_ACTIVE,
+	MECH_STATE_POWER,
+	MECH_STATE_HOME,
+	MECH_STATE_WAIT,
+	MECH_STATE_UPD_PARAMETERS,
+	MECH_STATE_MOTION_1,
+	MECH_STATE_MOTION_2,
+	MECH_STATE_HOME_UPD_PARAMETERS,
+	MECH_STATE_HOME_MOTION_1,
+	MECH_STATE_HOME_MOTION_2,
+	MECH_STATE_STOP,
+	MECH_STATE_SAFETY,
+	MECH_STATE_ERROR
+}Mechanism_State_ID_enum;

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Package SubType="MediaPackage" PackageType="MediaPackage" xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="Package">Logo</Object>
+    <Object Type="Package">Icon</Object>
+    <Object Type="Package">Indicators</Object>
+    <Object Type="Package">Background</Object>
+  </Objects>
+</Package>
