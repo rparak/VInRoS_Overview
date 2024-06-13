@@ -30,6 +30,7 @@
     </Connector>
     <Parameter ID="ConfigurationID" Value="BR_AS_I4C_Program_Config_5APC2100" />
     <Parameter ID="Simulation" Value="1" />
+    <Parameter ID="SimulationIPAddress" Value="192.168.0.25" />
     <Parameter ID="TimerDeviceType" Value="EPLX2X" />
     <Parameter ID="TimerDevice" Value="5ACCIF01.FPSC-001.IF1" />
     <Parameter ID="TaskClassIdleTime" Value="2000" />

@@ -134,9 +134,25 @@
         </Variable>
         <Variable Name="ROB_1_Sim_PROFINET_Mapping_IN" />
         <Variable Name="ROB_1_Sim_PROFINET_Mapping_OUT" />
+        <Variable Name="SIMULATION_ENABLE" />
       </GlobalVariables>
-      <Task Name="T_MECH_1" />
+      <Task Name="T_MECH_1">
+        <Variable Name="Trajectory_Str">
+          <Variable Name="Targets">
+            <Variable Name="Position" />
+          </Variable>
+          <Variable Name="Length" />
+        </Variable>
+      </Task>
       <Task Name="T_ROB_1" />
+      <Task Name="T_MECH_2">
+        <Variable Name="Trajectory_Str">
+          <Variable Name="Targets">
+            <Variable Name="Position" />
+          </Variable>
+          <Variable Name="Length" />
+        </Variable>
+      </Task>
     </Module>
   </DefaultView>
 </OpcUaSource>

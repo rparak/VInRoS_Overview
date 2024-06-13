@@ -35,6 +35,8 @@ void _INIT ProgramInit(void)
 	
 	Trajectory_Str.Length = 5;
 	
+	SIMULATION_ENABLE = FALSE;
+	
 	state_id = MECH_STATE_ACTIVE;
 }
 
