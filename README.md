@@ -6,7 +6,7 @@
 
 ## Project Description
 
-In progress ...
+Text ...
 
 <p align="center">
 <img src="https://github.com/rparak/VInRoS_Overview/blob/main/images/VInRoS_Structure.png" width="800" height="450">
