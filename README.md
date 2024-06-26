@@ -1,5 +1,9 @@
 # Versatile Intelligent Robotic Workstation (VInRoS)
 
+## Project Description
+
+In progress ...
+
 ## Contact Info
 Roman.Parak@outlook.com
 
