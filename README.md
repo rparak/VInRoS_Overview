@@ -42,7 +42,7 @@ Text ...
 Text ...
 
 <p align="center">
-<img src="https://github.com/rparak/VInRoS_Overview/blob/main/images/VInRoS_Digital_Twin.png" width="600" height="450">
+<img src="https://github.com/rparak/VInRoS_Overview/blob/main/images/VInRoS_Digital_Twin.png" width="800" height="700">
 </p>
 
 |        Result         | Link                                                                                  |
